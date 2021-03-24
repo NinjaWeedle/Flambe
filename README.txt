@@ -7,6 +7,8 @@ FLAMBÉ - A heated entry for Cemetech Contest #25.
 Game by Oxiti8 A.K.A Ninja Weedle
 ░▒▓ONLY for TI-84+ calculators.▓▒░
 
+If you have any questions or comments, you can send an email to weedleninja88@gmail.com.
+
  == TABLE OF CONTENTS ==
  1. Description
  2. Setting up the game + Notice for 84+ CSE/CE users
@@ -14,7 +16,14 @@ Game by Oxiti8 A.K.A Ninja Weedle
  4. Credits and Legal information
 
 
+== 1. DESCRIPTION ==
 
+FlambÉ is a WarioWare-inspired set of minigames with one unifying theme: heat.
+In this game, you'll need to stop ovens from overheating, Start a fire, and all sorts of other
+activities in order to keep up a steady burn. Of course, if you want to get a good
+score, you'll have to master controlling your calculator.
+
+Can you take the heat?
 
 
 == 2. SETTING UP THE GAME ==
@@ -40,7 +49,6 @@ With that out of the way, let's proceed to...
 3. Run prgmFLAMBE.
 
 
-
 == 3. HOW TO PLAY ==
 
 - Navigating the menus -
@@ -52,8 +60,8 @@ Most minigames use 2nd and the arrow keys. The exceptions are minigames in which
 you have to type, like in the minigame "TI-81". In this case, type like you normally
 would in TI-OS, and press ENTER to submit your answer.
 
-== 4. Credits and legal information ==
 
+== 4. CREDITS AND LEGAL INFORMATION ==
 
 FLAMBÉ Copyright (c) 2021 Oxiti8
 
@@ -65,4 +73,4 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THIS SOFTWARE OR THE USE OR OTHER DEALINGS IN THIS
 SOFTWARE.
 
-Celtic III was created by Iambian Zenith.
+Celtic III was created by Iambian Zenith. 
