@@ -18,7 +18,7 @@ If you have any questions or comments, you can send an email to weedleninja88@gm
 
 == 1. DESCRIPTION ==
 
-FlambÉ is a WarioWare-inspired set of minigames with one unifying theme: heat.
+Flambé is a WarioWare-inspired set of minigames with one unifying theme: heat.
 In this game, you'll need to stop ovens from overheating, Start a fire, and all sorts of other
 activities in order to keep up a steady burn. Of course, if you want to get a good
 score, you'll have to master controlling your calculator.
