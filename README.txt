@@ -6,6 +6,7 @@
 FLAMBÉ - A heated entry for Cemetech Contest #25.
 Game by Oxiti8 A.K.A Ninja Weedle
 ░▒▓ONLY for TI-84+ calculators.▓▒░
+Written in hybrid TI-BASIC (uses Celtic III)
 
 If you have any questions or comments, you can send an email to weedleninja88@gmail.com.
 
@@ -19,7 +20,7 @@ If you have any questions or comments, you can send an email to weedleninja88@gm
 == 1. DESCRIPTION ==
 
 Flambé is a WarioWare-inspired set of minigames with one unifying theme: heat.
-In this game, you'll need to stop ovens from overheating, Start a fire, and all sorts of other
+In this game, you'll need to stop ovens from overheating, start a fire, and all sorts of other
 activities in order to keep up a steady burn. Of course, if you want to get a good
 score, you'll have to master controlling your calculator.
 
