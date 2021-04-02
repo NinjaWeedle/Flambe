@@ -45,9 +45,10 @@ With that out of the way, let's proceed to...
 
 -SETUP-
 1. Send FLAMBE.8xp to RAM(Or archive if you plan on using a shell like Mirage OS or DoorsCS7)
-2. Send CELTIC 3.8xk to Archive, then run the Celtic III app and Celtic III.
+2. Send Pic8.8xi to RAM
+3. Send CELTIC 3.8xk to Archive, then run the Celtic III app and Celtic III.
 	-DoorsCS7 users should skip this step and instead enable Celtic III libraries in the DCS7 menu.
-3. Run prgmFLAMBE.
+4. Run prgmFLAMBE.
 
 
 == 3. HOW TO PLAY ==
